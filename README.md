@@ -18,4 +18,4 @@ Freecraft is a project that aims to replicate the functionality of Flipkart, an 
 World Explorer is a project that aims to replicate the functionality of Tripoto, a travel booking website
 
 ## Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,sql,maven,jquery,hibernate,spring,js,html,css,git,github,mysql,postman,visualstudio,replit,netlify&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,jquery,hibernate,spring,js,html,css,git,github,mysql,postman,visualstudio,replit,netlify&perline=5)](https://skillicons.dev)

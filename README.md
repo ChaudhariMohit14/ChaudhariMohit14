@@ -10,11 +10,14 @@ Dynamic Java Backend Developer with extensive Java, Maven, Hibernate & RDBMS exp
 * Portfolio: https://chaudharimohit14.github.io/
 
 ## Projects
-1. NewsGlobe Application | (https://drive.google.com/file/d/1DHp8camrYdzR5_vXFrHp8CV7gCq0VgDo/view?usp=sharing)
+# NewsGlobe Application \
+(https://drive.google.com/file/d/1DHp8camrYdzR5_vXFrHp8CV7gCq0VgDo/view?usp=sharing)\
 NewsGlobe is a console-based Java project, that is a news application with three key roles: Administrator, Journalist, and Reader. The project allows users to perform various actions based on their roles, such as login, signup, browsing news articles, creating, publishing, and editing articles.
-2. Freecraft | (https://visionary-chebakia-6651df.netlify.app/)
+# Freecraft \
+(https://visionary-chebakia-6651df.netlify.app/)\
 Freecraft is a project that aims to replicate the functionality of Flipkart, an e-commerce platform for clothing, appliances, groceries, and gadgets
-3. World Explorer | (https://calm-swan-3444c3.netlify.app/)
+# World Explorer \
+(https://calm-swan-3444c3.netlify.app/)\
 World Explorer is a project that aims to replicate the functionality of Tripoto, a travel booking website
 
 ## Language and Tools

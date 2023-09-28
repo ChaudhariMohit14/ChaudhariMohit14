@@ -16,3 +16,6 @@ NewsGlobe is a console-based Java project, that is a news application with three
 Freecraft is a project that aims to replicate the functionality of Flipkart, an e-commerce platform for clothing, appliances, groceries, and gadgets
 # 3. World Explorer | (https://calm-swan-3444c3.netlify.app/)
 World Explorer is a project that aims to replicate the functionality of Tripoto, a travel booking website
+
+## Language and Tools
+[![My Skills](https://skillicons.dev/icons?i=java,sql,maven,jquery,hibernate,spring,js,html,css,git,github,mysql,postman,visualstudio,replit,netlify&perline=6)](https://skillicons.dev)

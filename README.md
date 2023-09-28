@@ -7,7 +7,7 @@ Dynamic Java Backend Developer with extensive Java, Maven, Hibernate & RDBMS exp
 * Email: chaudharimohit1410@gmail.com
 * LinkedIn: https://www.linkedin.com/in/mohit-chaudhari-b558701b3/
 * Resume: https://drive.google.com/file/d/1U7Z-Ob_7Byz1VqFdlo_IdISE2lWfKV0q/view?usp=sharing
-* Portfolio: https://chaudharimohit14.github.io/
+* Portfolio Link: https://chaudharimohit14.github.io/
 
 ## Projects
 ### 1. NewsGlobe Application

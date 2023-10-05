@@ -28,6 +28,6 @@ World Explorer is a project that aims to replicate the functionality of Tripoto,
 
 
 ## GitHub Stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChaudhariMohit14)](https://git.io/streak-stats) <br>
+<img id="github-streak-stats" src="https://streak-stats.demolab.com/?user=ChaudhariMohit14&github-readme-streak-stats.herokuapp.com" alt="GitHub Streak Stats" /><br>
 ![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaudhariMohit14&show_icons=true)  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaudhariMohit14&layout=compact)  <br>

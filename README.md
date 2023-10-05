@@ -1,5 +1,5 @@
 # Hi there 👋 I am Mohit Chaudhari 👨‍💻
-## Java Backend Developer ##
+## Java Backend Developer 
 Dynamic Java Backend Developer with extensive Java, Maven, Hibernate & RDBMS expertise. Demonstrated success in solo and collaborative projects. Superb communication skills, fostering seamless collaboration. Eager to make a valuable contribution to Java development endeavours.
 
 
@@ -27,7 +27,7 @@ World Explorer is a project that aims to replicate the functionality of Tripoto,
 [![My Skills](https://skillicons.dev/icons?i=java,maven,jquery,hibernate,spring,js,html,css,git,github,mysql,postman,visualstudio,replit,netlify&perline=5)](https://skillicons.dev)
 
 
-## GitHub Stats##
+## GitHub Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChaudhariMohit14)](https://git.io/streak-stats)
 ![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaudhariMohit14&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaudhariMohit14&layout=compact)

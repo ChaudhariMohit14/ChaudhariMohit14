@@ -25,9 +25,3 @@ World Explorer is a project that aims to replicate the functionality of Tripoto,
 
 ## Language and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,maven,jquery,hibernate,spring,js,html,css,git,github,mysql,postman,visualstudio,replit,netlify&perline=5)](https://skillicons.dev)
-
-
-## GitHub Stats 
-<img id="github-streak-stats" src="https://streak-stats.demolab.com/?user=ChaudhariMohit14&github-readme-streak-stats.herokuapp.com" alt="GitHub Streak Stats" /><br>
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaudhariMohit14&show_icons=true)  <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaudhariMohit14&layout=compact)  <br>

@@ -22,6 +22,9 @@ Freecraft is a project that aims to replicate the functionality of Flipkart, an 
 ### 3. World Explorer 
 https://calm-swan-3444c3.netlify.app/ <br>
 World Explorer is a project that aims to replicate the functionality of Tripoto, a travel booking website
+### 4. Portfolio 
+ https://chaudharimohit14.github.io/ <br>
+A comprehensive portfolio showcasing my skills and in-depth project work, offering insights into my professional journey and accomplishments. Explore my diverse skill set, learn about me, and dive into the details of the projects I've passionately pursued.
 
 ## Language and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,maven,jquery,hibernate,spring,js,html,css,git,github,mysql,postman,visualstudio,replit,netlify&perline=5)](https://skillicons.dev)

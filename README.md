@@ -15,7 +15,7 @@ I'm Mohit Chaudhari from Shahada, Maharashtra. I graduated with a Bachelor of Ci
 ## Projects
 ### 1. RentNRide Application
  <br>
-RentNRide is a simple car rental system that allows administrators to manage the car inventory and customers to search for available cars, view details, make reservations, and manage their reservations.
+RentNRide is a simple car rental system that allows administrators to manage the car inventory and customers to search for available cars, view details, make reservations, and manage their reservations. <br>
 ### 2. NewsGlobe Application
 https://drive.google.com/file/d/1DHp8camrYdzR5_vXFrHp8CV7gCq0VgDo/view?usp=sharing <br>
 NewsGlobe is a console-based Java project, that is a news application with three key roles: Administrator, Journalist, and Reader. The project allows users to perform various actions based on their roles, such as login, signup, browsing news articles, creating, publishing, and editing articles.

@@ -13,16 +13,19 @@ I'm Mohit Chaudhari from Shahada, Maharashtra. I graduated with a Bachelor of Ci
 * Portfolio Link: https://chaudharimohit14.github.io/
 
 ## Projects
-### 1. NewsGlobe Application
+### 1. RentNRide Application
+ <br>
+RentNRide is a simple car rental system that allows administrators to manage the car inventory and customers to search for available cars, view details, make reservations, and manage their reservations.
+### 2. NewsGlobe Application
 https://drive.google.com/file/d/1DHp8camrYdzR5_vXFrHp8CV7gCq0VgDo/view?usp=sharing <br>
 NewsGlobe is a console-based Java project, that is a news application with three key roles: Administrator, Journalist, and Reader. The project allows users to perform various actions based on their roles, such as login, signup, browsing news articles, creating, publishing, and editing articles.
-### 2. Freecraft 
+### 3. Freecraft 
 https://visionary-chebakia-6651df.netlify.app/ <br>
 Freecraft is a project that aims to replicate the functionality of Flipkart, an e-commerce platform for clothing, appliances, groceries, and gadgets
-### 3. World Explorer 
+### 4. World Explorer 
 https://calm-swan-3444c3.netlify.app/ <br>
 World Explorer is a project that aims to replicate the functionality of Tripoto, a travel booking website
-### 4. Portfolio 
+### 5. Portfolio 
  https://chaudharimohit14.github.io/ <br>
 A comprehensive portfolio showcasing my skills and in-depth project work, offering insights into my professional journey and accomplishments. Explore my diverse skill set, learn about me, and dive into the details of the projects I've passionately pursued.
 

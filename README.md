@@ -9,7 +9,7 @@ I'm Mohit Chaudhari from Shahada, Maharashtra. I graduated with a Bachelor of Ci
 ## Contact
 * Email: chaudharimohit1410@gmail.com
 * LinkedIn: https://www.linkedin.com/in/mohit-chaudhari-b558701b3/
-* Resume: https://drive.google.com/file/d/1U7Z-Ob_7Byz1VqFdlo_IdISE2lWfKV0q/view?usp=sharing
+* Resume: https://drive.google.com/file/d/1Enf5ymDZ0B1S50AQd2JezTYQDSXv-FZz/view
 * Portfolio Link: https://chaudharimohit14.github.io/
 
 ## Projects

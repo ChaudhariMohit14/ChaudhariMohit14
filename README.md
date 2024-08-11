@@ -4,12 +4,12 @@ Dynamic Java Backend Developer with extensive Java, Maven, Hibernate & RDBMS exp
 
 
 ## About Me
-I'm Mohit Chaudhari from Shahada, Maharashtra. I graduated with a Bachelor of Civil Engineering in 2021 from Matoshri College of Engineering and Research Centre, Nashik. I completed a 35-week Full Stack Web Development course at Masai in 2022, where I gained industry-level knowledge. I've worked on projects in groups and individually, like an e-commerce website and a console-based application.
+I'm Mohit Chaudhari from Pune, Maharashtra. I graduated with a Bachelor of Civil Engineering in 2021 from Matoshri College of Engineering and Research Centre, Nashik. I completed a 35-week Full Stack Web Development course at Masai in 2022, where I gained industry-level knowledge. I've worked on projects in groups and individually, like an e-commerce website and a console-based application. I am working as a Monitoring Engineer at Smart Data Solutions, Chennai.
 
 ## Contact
-* Email: chaudharimohit1410@gmail.com
+* Email: mohitpc14@gmail.com
 * LinkedIn: https://www.linkedin.com/in/mohit-chaudhari-b558701b3/
-* Resume: https://drive.google.com/file/d/1Enf5ymDZ0B1S50AQd2JezTYQDSXv-FZz/view
+* Resume: https://drive.google.com/file/d/1WF-Xfx3ugjY6sTHJI-L4TRFU99sxyyru/view?usp=sharing
 * Portfolio Link: https://chaudharimohit14.github.io/
 
 ## Projects

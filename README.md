@@ -9,7 +9,7 @@ I'm Mohit Chaudhari from Pune, Maharashtra. I graduated with a Bachelor of Civil
 ## Contact
 * Email: mohitpc14@gmail.com
 * LinkedIn: https://www.linkedin.com/in/mohit-chaudhari-b558701b3/
-* Resume: https://drive.google.com/file/d/1WF-Xfx3ugjY6sTHJI-L4TRFU99sxyyru/view?usp=sharing
+* Resume: https://drive.google.com/file/d/1r4oM9dwxPwR7FqosxSY2lV4X6LJ-PSaa/view?usp=sharing
 * Portfolio Link: https://chaudharimohit14.github.io/
 
 ## Projects
